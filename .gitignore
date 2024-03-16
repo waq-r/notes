@@ -1,1 +1,3 @@
+# Ignore all files in the .gitignore file
+.gitignore
 .obsidian/
