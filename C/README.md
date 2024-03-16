@@ -21,5 +21,7 @@
 ### 1.6 Arrays
 
 ### 1.7 Functions
-- Function arguments are pass-by-value. 
+
+- Function arguments are pass-by-value.
 - We can provide address/pointer to a function to change the passed variables.
+- When array is passed as an argument, actually, the address of it's first element is passed. So, no copying of array element values. A function can access and change array elements.
