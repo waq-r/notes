@@ -21,3 +21,5 @@
 ### 1.6 Arrays
 
 ### 1.7 Functions
+- Function arguments are pass-by-value. 
+- We can provide address/pointer to a function to change the passed variables.
