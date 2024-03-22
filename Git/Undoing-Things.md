@@ -1,5 +1,6 @@
 ### Undoing Things ⚒
 #### Using git amend, git reset and git restore
+####  git amend
 ```console
 $ git commit --amend
 ```

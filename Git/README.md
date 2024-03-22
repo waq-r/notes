@@ -1,4 +1,8 @@
 ## Git
+
+#### [[Getting-Started]]
+
+#### [[Undoing-Things]]
 ### Commits
 - All commits are objects
 - Commits can not be changed
